@@ -1,0 +1,25 @@
+# Arquivos e pastas do sistema
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+.env
+.DS_Store
+
+# Dependências específicas de desenvolvimento
+dev/
+
+# Arquivos gerados durante a construção do projeto
+/build/
+/dist/
+
+# Arquivos de configuração
+.vscode/
+.idea/
+*.iml
+
+# Arquivos de log e cache
+*.log
+*.pid
+*.lock
