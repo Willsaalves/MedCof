@@ -2,7 +2,7 @@
 
 # Node.js Authentication with JWT MedCof
 
-Este é teste na criação de uma aplicação em Node.js que demonstra autenticação usando JSON Web Tokens (JWT). 
+Este é um teste na criação de uma aplicação em Node.js que demonstra autenticação usando JSON Web Tokens (JWT). 
 
 ## Funcionalidades
 
