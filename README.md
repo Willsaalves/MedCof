@@ -51,7 +51,7 @@ A aplicação estará disponível em `http://localhost:3000`.
 **Endpoint:**
 
 ```
-POST /login
+POST /auth/login
 ```
 
 **Payload:**
